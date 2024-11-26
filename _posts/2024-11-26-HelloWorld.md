@@ -3,8 +3,7 @@ title: Hello World
 creation_date: November 26, 2024
 modification_date: November 26, 2024
 ---
-
-# Hello World
+Hello World
 
 I may post some stuff here.
 
