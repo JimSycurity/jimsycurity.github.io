@@ -81,12 +81,13 @@ timezone            : America/Chicago
 
 quiet               : false
 verbose             : false
-defaults            : [
-  -scope:
+defaults            : 
+  -
+  scope:
     path: "images"
   values:
-    image:true
-]
+    image: true
+
 
 liquid:
   error_mode        : warn
@@ -100,7 +101,7 @@ plugins:
   - jekyll-gist
   - jekyll-coffeescript
   - jekyll-seo-tag
-  
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
