@@ -91,7 +91,7 @@ liquid:
   strict_variables  : false
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
  - jekyll-feed
  - jekyll-gist
