@@ -28,18 +28,18 @@ github_username:  JimSycurity
 author: Jim Sykora
 
 # Where things are
-source              : .
-destination         : ./_site
-collections_dir     : .
-plugins_dir         : _plugins # takes an array of strings and loads plugins in that order
-layouts_dir         : _layouts
-data_dir            : _data
-includes_dir        : _includes
-sass:
-  sass_dir: _sass
-collections:
-  posts:
-    output          : true
+#source              : .
+#destination         : ./_site
+#collections_dir     : .
+#plugins_dir         : _plugins # takes an array of strings and loads plugins in that order
+#layouts_dir         : _layouts
+#data_dir            : _data
+#includes_dir        : _includes
+#sass:
+ # sass_dir: _sass
+#collections:
+#  posts:
+#    output          : true
 
 # Handling Reading
 safe                : false
@@ -60,7 +60,7 @@ unpublished         : false
 markdown            : GFM
 highlighter         : rouge
 lsi                 : false
-excerpt_separator   : "\n\n"
+#excerpt_separator   : "\n\n"
 incremental         : false
 
 # Serving
