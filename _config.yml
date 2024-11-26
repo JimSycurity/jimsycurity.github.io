@@ -94,9 +94,13 @@ liquid:
   strict_variables  : false
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
+  - jekyll-gist
+  - jekyll-coffeescript
+  - jekyll-seo-tag
+  
 
 # Exclude from processing.
 # The following items will not be processed, by default.
