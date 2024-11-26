@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Hello World
 creation_date: November 26, 2024
 modification_date: November 26, 2024
