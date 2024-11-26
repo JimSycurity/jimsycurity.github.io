@@ -6,6 +6,7 @@ modification_date: November 26, 2024
 Hello World.  This is my first post using Jekyll on GitHub Pages.
 
 I may post some stuff here.
+<!-- excerpt-end -->
 
 My posts would likely be about:
 - Microsoft Active Directory
