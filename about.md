@@ -1,7 +1,7 @@
 ---
 layout: page
-title: whoami
-permalink: /whoami/
+title: about
+permalink: /about/
 ---
 
 Jim Sykora
