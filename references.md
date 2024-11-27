@@ -1,6 +1,6 @@
 ---
 layout: page
-title: References and Resources
+title: references & resources
 permalink: /references/
 ---
 A collection of references and resources to sites, pages, posts, and papers that I find interesting or useful.

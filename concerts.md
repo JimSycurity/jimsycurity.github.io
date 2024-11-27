@@ -1,5 +1,6 @@
 ---
 layout: page
+title: concerts
 tag: music
 ---
 An attempt to piece together the puzzle of all the concerts I've been to over the years from most recent to longest ago.
