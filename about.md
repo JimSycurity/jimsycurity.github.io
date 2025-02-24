@@ -14,12 +14,12 @@ Github: https://github.com/JimSycurity
 
 I'm from Minnesota, born and raised.  It's hotdish, not a casserole.  I currently live in rural Minnesota and really haven't lived outside of MN much.  I've been very online since the mid 90's and I love to listen to and engage with folks from around the world and with different lived expereinces than me.  Now that I'm married to a wonderful wife and we budget for travel, I get to meet some of those folks and experience new things for myself.
 
-I've pretty much known I was going to be in IT or InfoSec since I was in elementaray school when I got my first taste of Applesoft BASIC and MECC's Oregon Trail.  I've strayed from that path multiple times, but I've been at IT now in earnest for 25+ years, with my most recent focus being on defensive security, specifically protecting Active Directory.
+I've pretty much known I was going to be in IT or InfoSec since I was in elementaray school when I got my first taste of Applesoft BASIC and MECC's Oregon Trail.  I've strayed from that path multiple times, but I've been at IT now in earnest for 25+ years, with my most recent focus being on defensive security, specifically protecting Active Directory and Entra ID.
 
 ## Content
 
 ### Blog Posts
-Lol, I can't write anything that short.
+Lol, I can't write anything that short, but going forward it would show up on this website.
 
 ### Talks
 - [AD & DNS: A Match Made in Heck](https://www.hub.trimarcsecurity.com/post/ad-dns-a-match-made-in-heck) - BSides Charm 2023
@@ -31,8 +31,12 @@ Lol, I can't write anything that short.
 ### Long Form Papers
 - [Ten Ways to Improve AD Security Quickly](https://www.hub.trimarcsecurity.com/post/ten-ways-to-improve-ad-security-quickly) Trimarc Content Hub: 29 Page PDF with scripts and remediations
 - [Owner or Pwned?](https://www.hub.trimarcsecurity.com/post/trimarc-whitepaper-owner-or-pwnd) Trimarc Content Hub: 50+ page PDF exploring Discovering and Remediating AD Object Ownership Issues.
+  - [Download Owner or Pwned? whitepaper version 1.3 from GitHub](https://github.com/JimSycurity/JimSycurity/tree/main/Documents/Owner_or_Pwned_v1.3.pdf) - Updated February 21, 2025
 
 ### Video
 - [Sneaky Active Directory Persistence](https://www.hub.trimarcsecurity.com/video?wix-vod-video-id=NdiHgoqoezM&wix-vod-comp-id=comp-k9ynu2kz)
+
+### Training
+- AD Security 101 - BSides Charm 2025
 
 
