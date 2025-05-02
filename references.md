@@ -11,8 +11,9 @@ A collection of references and resources to sites, pages, posts, and papers that
 
 ### AD Security
 - [adsecurity.org](adsecurity.org) - Sean Metcalf wrote the blog on Active Directory Security
-- [Trimarc content hub](https://www.hub.trimarcsecurity.com/) - Disclosure: I work here and wrote some of this content
+- [Trimarc content hub](https://www.hub.trimarcsecurity.com/) - Disclosure: I previously worked at Trimarc and wrote some of this content
 - [My AD Security Reference Page](https://github.com/JimSycurity/References/blob/main/ActiveDirectory/ADSecurityGeneral.md)
+- [posts.specterops.io](https://posts.specterops.io) - Disclosure: I work here and hope to have content up here soon
 
 ## Active Directory Certificate Services
 - [LockSmith](https://github.com/TrimarcJake/Locksmith) - A small tool built to find and fix common misconfigurations in AD CS built by my amazing coworker Jake
@@ -21,7 +22,7 @@ A collection of references and resources to sites, pages, posts, and papers that
 - [Entra News](https://entra.news/) - Stay up to date on Entra courtesy of Merill
 
 ### Entra Security
-- [Trimarc content hub](https://www.hub.trimarcsecurity.com/) - Disclosure: I work here and wrote some of this content
+- [Trimarc content hub](https://www.hub.trimarcsecurity.com/) - Disclosure: I previously worked at Trimarc and wrote some of this content
 - [Maester](https://maester.dev/) - A Microsoft security test automation framework started by Merill and contributed to by several great folks
 
 ## Powershell & .NET
@@ -29,7 +30,7 @@ A collection of references and resources to sites, pages, posts, and papers that
 ## Windows
 
 # Books
-
+- [Windows Security Internals](https://nostarch.com/windows-security-internals) by James Forshaw
 
 
 
