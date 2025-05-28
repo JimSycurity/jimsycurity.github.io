@@ -20,6 +20,7 @@ I've pretty much known I was going to be in IT or InfoSec since I was in element
 
 ### Blog Posts
 Lol, I can't write anything that short, but going forward it would show up on this website.
+- [Understanding & Mitigating BadSuccessor](https://specterops.io/blog/2025/05/27/understanding-mitigating-badsuccessor/)
 
 ### Talks
 - [AD & DNS: A Match Made in Heck](https://www.hub.trimarcsecurity.com/post/ad-dns-a-match-made-in-heck) - BSides Charm 2023
