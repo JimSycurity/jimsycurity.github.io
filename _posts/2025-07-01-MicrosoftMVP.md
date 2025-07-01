@@ -7,7 +7,7 @@ tag: activedirectory
 
 I was honored this morning to receive an email from Microsoft stating that I've been accepted to the Microsoft Most Valuable Professionals program in the area of Identity & Access.
 
-![You’ve been accepted to the Microsoft MVP Program](../_images/MVP2025.png)
+![You’ve been accepted to the Microsoft MVP Program](https://adminsdholder.com/files/MVP2025.png)
 
 <!-- excerpt-end -->
 
