@@ -21,7 +21,6 @@ In July 2025 I was honored to be accepted to the Microsoft Most Valuable Profess
 ## Content
 
 ### Blog Posts
-Lol, I can't write anything that short, but going forward it would show up on this website.
 - [Understanding & Mitigating BadSuccessor](https://specterops.io/blog/2025/05/27/understanding-mitigating-badsuccessor/)
 
 ### Talks
@@ -35,6 +34,7 @@ Lol, I can't write anything that short, but going forward it would show up on th
 - [Ten Ways to Improve AD Security Quickly](https://www.hub.trimarcsecurity.com/post/ten-ways-to-improve-ad-security-quickly) Trimarc Content Hub: 29 Page PDF with scripts and remediations
 - [Owner or Pwned?](https://www.hub.trimarcsecurity.com/post/trimarc-whitepaper-owner-or-pwnd) Trimarc Content Hub: 50+ page PDF exploring Discovering and Remediating AD Object Ownership Issues.
   - [Download Owner or Pwned? whitepaper version 1.3 from GitHub](https://github.com/JimSycurity/JimSycurity/tree/main/Documents/Owner_or_Pwned_v1.3.pdf) - Updated February 21, 2025
+- [AdminSDHolder Misconceptions and Misconfigurations](https://specterops.io/resources/adminsdholder/) - Released October 31, 2025
 
 ### Video
 - [Sneaky Active Directory Persistence](https://www.hub.trimarcsecurity.com/video?wix-vod-video-id=NdiHgoqoezM&wix-vod-comp-id=comp-k9ynu2kz)
