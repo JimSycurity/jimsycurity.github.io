@@ -31,6 +31,8 @@ In July 2025 I was honored to be accepted to the Microsoft Most Valuable Profess
   - [Slides](https://github.com/TrimarcJake/BlueTuxedo/blob/main/ADI%20DNS%20-%20No%20demo.pptx)
   - Tool Released: [BlueTuxedo: A tiny tool built to find and fix common misconfigurations in Active Directory-Integrated DNS](https://github.com/TrimarcJake/BlueTuxedo)
 - [AD & DNS: A Match Made in Heck](https://www.hub.trimarcsecurity.com/post/ad-dns-a-match-made-in-heck) - Hackers Teaching Hackers 2023
+- Abusing Backup Operators with TrustedSec's Titanis - Wild West Hackin' Fest Mile High 2026
+- AdminSDHolder Misconceptions & Misconfigurations - SO-CON 2026
 
 ### Long Form Papers
 - [Ten Ways to Improve AD Security Quickly](https://www.hub.trimarcsecurity.com/post/ten-ways-to-improve-ad-security-quickly) Trimarc Content Hub: 29 Page PDF with scripts and remediations
@@ -43,5 +45,3 @@ In July 2025 I was honored to be accepted to the Microsoft Most Valuable Profess
 
 ### Training
 - AD Security 101 - BSides Charm 2025: 8 hours of free Active Directory Security training
-
-
